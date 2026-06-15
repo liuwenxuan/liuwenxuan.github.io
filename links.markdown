@@ -65,7 +65,7 @@ permalink: /links/
 
 [戴森 V12 Detect Slim 动手玩：精细化升级，更专注细节](https://www.donews.com/news/detail/5/3202769.html)
 
-#### 🖼️ 长图系列
+#### 📰 长图报道
 
 [一图看懂2020苹果秋季发布会](https://www.donews.com/news/detail/5/3112894.html)
 
