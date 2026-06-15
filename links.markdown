@@ -33,7 +33,7 @@ permalink: /links/
 
 ### TechNode动点科技
 
-#### 🎨 漫画专栏
+#### 📕 漫画专栏
 
 [人人网找不到老朋友，你的青春喂了狗](https://cn.technode.com/post/2018-11-17/illustration-renren/)
 
