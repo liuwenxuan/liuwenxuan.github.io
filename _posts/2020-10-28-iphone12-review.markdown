@@ -2,7 +2,7 @@
 layout: post
 title: "iPhone 12 动手玩：除了性价比和 5G，它还剩下什么？"
 date: 2020-10-28 18:08:06 +0800
-categories: 科技数码评测
+categories: reviews
 tags: iPhone 苹果
 ---
 
