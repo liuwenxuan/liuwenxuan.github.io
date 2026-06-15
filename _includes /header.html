@@ -12,10 +12,12 @@
         <label for="nav-trigger">
           <span class="menu-icon"></span>
         </label>
+        <div class="trigger">
         <a class="page-link" href="{{ '/reviews/' | relative_url }}">硬件评测</a>
         <a class="page-link" href="{{ '/articles/' | relative_url }}">原创文章</a>
         <a class="page-link" href="{{ '/images/' | relative_url }}">长图报道</a>
         <a class="page-link" href="{{ '/cartoons/' | relative_url }}">漫画插画</a>
+        </div>
         {% include nav-items.html paths = page_paths %}
       </nav>
     {%- endunless %}
