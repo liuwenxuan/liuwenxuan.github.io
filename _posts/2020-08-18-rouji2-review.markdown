@@ -2,7 +2,7 @@
 layout: post
 title: "柔记2动手玩：柔性科技加持，线上线下一本搞定"
 date: 2020-08-18 17:10:07 +0800
-categories: 科技数码评测
+categories: reviews
 tags: 柔记2 智能笔记本 手写 数字化
 ---
 
