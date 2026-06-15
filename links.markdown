@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: 作品链接
 permalink: /links/
 ---
 
