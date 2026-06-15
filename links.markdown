@@ -43,6 +43,8 @@ permalink: /links/
 
 [中文互联网灵异图鉴](https://cn.technode.com/post/2019-05-14/illustration-ghost-stories/)
 
+[小时候心跳加速的瞬间](https://cn.technode.com/post/2020-03-17/illustration-tachycardia/)
+
 [是怎样的 MacBook Pro 让他脸红心跳](https://cn.technode.com/post/2019-11-14/illustration-macbook-pro-16-inch/)
 
 ### DoNews
