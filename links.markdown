@@ -53,6 +53,8 @@ permalink: /links/
 
 [Podcast该向何方？](https://www.donews.com/news/detail/1/3097822.html)
 
+[成者科技周康：坐姿仪完全有机会成为桌面新标配](https://www.donews.com/news/detail/1/3171880.html)
+
 #### 🎮 硬件评测
 
 [柔记2动手玩：柔性科技加持 线上线下一本搞定](https://www.donews.com/news/detail/5/3108286.html)
