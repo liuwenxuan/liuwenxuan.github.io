@@ -15,8 +15,6 @@ permalink: /links/
 
 [OpenAI要告苹果了？](https://maker.zhiding.cn/2026/0515/3187093.shtml)
 
-[“百模大战”时代，AI模型研发的工作站之道](https://biz.zhiding.cn/2023/0731/3151228.shtml)
-
 [你为了隐私从GPT搬去Claude，它现在让你交护照](https://maker.zhiding.cn/2026/0416/3184256.shtml)
 
 [一个人用AI写的小工具，撼动了网页排版三十年的老规矩](https://maker.zhiding.cn/2026/0331/3182800.shtml)
